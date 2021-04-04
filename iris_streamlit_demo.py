@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 
-st.write('Iris Species Prediction')
+st.markdown('<h2>Iris Species Prediction</h2>')
 
 
 
