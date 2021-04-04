@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 
-st.markdown('<h2>Iris Species Prediction</h2>')
+st.markdown('## Iris Species Prediction')
 
 
 
