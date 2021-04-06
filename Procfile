@@ -1,2 +1,1 @@
-web: node iris_streamlit_demo.py
-
+web: gunicorn iris_streamlit_heroku_demo
