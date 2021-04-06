@@ -1,1 +1,0 @@
-web: gunicorn iris_streamlit_heroku_demo
